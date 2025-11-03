@@ -70,8 +70,6 @@ center.
 
 </p>
 
-{/ *Contact block* /}
-
 <div className="mt-2 text-lg leading-8 text-zinc-700 dark:text-zinc-300">
 
 <a className="underline" href="[mailto:quantumneolabs@gmail.com](mailto:quantumneolabs@gmail.com)">
